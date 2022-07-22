@@ -70,7 +70,7 @@
 
 ## 运行效果展示
 
-![image-20220702170029295](README.assets/image-20220702170029295.png)
+![image-20220702170029295]([README.assets/image-20220702170029295.png](https://github.com/valleypub/seckill/blob/master/README.assets/image-20220702165925486.png))
 
 
 
